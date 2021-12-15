@@ -50,9 +50,5 @@ def writeToFile():
         return f.write(html)
 
 
-def htmlFooter():
-    return "</body></html>"
-
-
 if __name__ == '__main__':
     writeToFile()
