@@ -1,0 +1,12 @@
+@1.This is example. First question?
+$A) First option;
+$B) Second option;
+$C) Any option;
+$D) Any option;
+$E) Any option;
+@2.This is example. Second question?
+$A) First option;
+$B) Second option;
+$C) Any option;
+$D) Any option;
+$E) Any option;

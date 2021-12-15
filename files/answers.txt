@@ -1,0 +1,3 @@
+//Capital letters of the English alphabet only
+A
+B
